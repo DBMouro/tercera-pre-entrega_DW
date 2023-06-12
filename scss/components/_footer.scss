@@ -1,0 +1,22 @@
+.bi{
+    font-size: 200% ;
+    padding-top: 10%;
+    padding-left: 10%;
+
+    &-instagram{
+        color:$color-fucsia;
+
+        &:hover{
+            color:$color-rojo;
+        }
+    }
+
+    &-facebook{
+        color:$color-azul;
+
+        &:hover{
+            color:$color-rojo;
+        }
+    }
+
+}
